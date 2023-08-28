@@ -1,2 +1,2 @@
 # hello-world
-ejercicio
+ejercicio El proyecto tambien se puede presentar como proyecto final.
